@@ -1,0 +1,99 @@
+[
+  {
+    "id": "5d25bedb-0a93-4194-8630-9e50f26eda16",
+    "data": [
+      {
+        "text": "english",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626721
+  },
+  {
+    "id": "c3a54f5f-8679-4e13-834d-89ed5ca60d63",
+    "data": [
+      {
+        "text": "what are some ",
+        "userDefined": false
+      },
+      {
+        "text": "computer science",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626721
+  },
+  {
+    "id": "a080a9d2-3587-4569-97ef-5a7191b15fbf",
+    "data": [
+      {
+        "text": "name some ",
+        "userDefined": false
+      },
+      {
+        "text": "math",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626721
+  },
+  {
+    "id": "91937083-e49a-4c2d-9e7a-2b2af29a86aa",
+    "data": [
+      {
+        "text": "What are courses of ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " subject ",
+        "userDefined": false
+      },
+      {
+        "text": "math",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626721
+  },
+  {
+    "id": "bd3c3ef1-8fa3-4353-a455-d50407efc3ad",
+    "data": [
+      {
+        "text": "All courses in a subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550599529
+  }
+]

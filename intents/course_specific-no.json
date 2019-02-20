@@ -1,0 +1,31 @@
+{
+  "id": "027789d8-e0e6-45e0-8851-5e4e670fa4a1",
+  "parentId": "41b33d65-fea0-4512-9c3f-4306447f3fb3",
+  "rootParentId": "41b33d65-fea0-4512-9c3f-4306447f3fb3",
+  "name": "course_specific-no",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "course_specific.course_specific-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, good bye."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550629801,
+  "fallbackIntent": false,
+  "events": []
+}

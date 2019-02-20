@@ -1,0 +1,53 @@
+{
+  "id": "bc8ee683-ac3a-4f5f-8364-c7425dc95052",
+  "name": "courses_in_a_subject",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "courses_in_a_subject-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0a8506f5-1e4e-4468-ab66-f4e1226521f5",
+          "required": true,
+          "dataType": "@courseSubject",
+          "name": "courseSubject",
+          "value": "$courseSubject",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What subject?"
+            },
+            {
+              "lang": "en",
+              "value": "What\u0027s the subject?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550629613,
+  "fallbackIntent": false,
+  "events": []
+}

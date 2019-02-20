@@ -1,0 +1,32 @@
+{
+  "id": "277b0a47-c8be-43e4-a967-9a9eac6dd06c",
+  "name": "Telephony Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Welcome to U.R.I.\u0027s course catalog by phone.  You can ask things like \n information on a specific course, all the courses in a subject, or courses within a range of course numbers. What can I help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550628816,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEPHONY_WELCOME"
+    }
+  ]
+}

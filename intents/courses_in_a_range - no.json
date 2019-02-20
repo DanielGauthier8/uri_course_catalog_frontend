@@ -1,0 +1,33 @@
+{
+  "id": "55923ab9-2d5e-4e29-b0b5-eccf09838e80",
+  "parentId": "80dfe63a-0548-4ab0-a769-102265cb6880",
+  "rootParentId": "80dfe63a-0548-4ab0-a769-102265cb6880",
+  "name": "courses_in_a_range - no",
+  "auto": true,
+  "contexts": [
+    "courses_in_a_range-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "courses_in_a_range.courses_in_a_range-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, good bye."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1550629825,
+  "fallbackIntent": false,
+  "events": []
+}

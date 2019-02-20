@@ -1,0 +1,154 @@
+[
+  {
+    "id": "5bdebf49-0a20-4c9d-b977-aa367f9534fb",
+    "data": [
+      {
+        "text": "Course within a range",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550599613
+  },
+  {
+    "id": "3c0cb32f-0cc8-42cc-88a1-f5756deadbbf",
+    "data": [
+      {
+        "text": "Courses within a range",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550599613
+  },
+  {
+    "id": "e84d8bf7-9813-40d8-8dcd-3203358a4443",
+    "data": [
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " course between ",
+        "userDefined": false
+      },
+      {
+        "text": "101",
+        "alias": "cardinal1",
+        "meta": "@sys.cardinal",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "240",
+        "alias": "cardinal2",
+        "meta": "@sys.cardinal",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626453
+  },
+  {
+    "id": "49ad63a5-93d4-476c-946f-13425ea1de7f",
+    "data": [
+      {
+        "text": "a course between ",
+        "userDefined": false
+      },
+      {
+        "text": "300",
+        "alias": "cardinal1",
+        "meta": "@sys.cardinal",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "450",
+        "alias": "cardinal2",
+        "meta": "@sys.cardinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626453
+  },
+  {
+    "id": "0ed8975d-16a8-44ad-91f5-bb4ced0d8fa9",
+    "data": [
+      {
+        "text": "a class between ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "cardinal1",
+        "meta": "@sys.cardinal",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "300",
+        "alias": "cardinal2",
+        "meta": "@sys.cardinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626453
+  },
+  {
+    "id": "9728d77b-04f8-4368-9fe0-c6238e9693a0",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "computer science",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " class between ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "cardinal1",
+        "meta": "@sys.cardinal",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "400",
+        "alias": "cardinal2",
+        "meta": "@sys.cardinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626453
+  }
+]

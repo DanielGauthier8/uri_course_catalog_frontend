@@ -1,0 +1,221 @@
+[
+  {
+    "id": "7a87277b-2cc0-405f-9bda-fa6956f5910f",
+    "data": [
+      {
+        "text": "math",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550594674
+  },
+  {
+    "id": "04e64362-844f-4582-a710-849f53946de5",
+    "data": [
+      {
+        "text": "eng",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550594242
+  },
+  {
+    "id": "a04ecfb0-747d-4c2e-99e0-96731e893571",
+    "data": [
+      {
+        "text": "200",
+        "alias": "courseNumber",
+        "meta": "@sys.cardinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626277
+  },
+  {
+    "id": "c0b16c1f-290e-411e-9ca4-aece338a903e",
+    "data": [
+      {
+        "text": "could you give me information about a specific course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550594137
+  },
+  {
+    "id": "89f7660f-b396-4b70-b40e-12b52a15aa26",
+    "data": [
+      {
+        "text": "information about a specific course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550594137
+  },
+  {
+    "id": "a4fc9521-8601-49f5-a6bb-04ae6bf56296",
+    "data": [
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " specific course ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "234",
+        "alias": "courseNumber",
+        "meta": "@sys.cardinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626277
+  },
+  {
+    "id": "afa107d3-4a63-4921-baf6-f809cf488fb6",
+    "data": [
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " course ",
+        "userDefined": false
+      },
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "106",
+        "alias": "courseNumber",
+        "meta": "@sys.cardinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550626277
+  },
+  {
+    "id": "bdb981dc-0c58-4142-a864-17ab1d53cf34",
+    "data": [
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " course ",
+        "userDefined": false
+      },
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550594137
+  },
+  {
+    "id": "925f1cbd-739c-4e2f-afa4-db221c3ecc14",
+    "data": [
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " course ",
+        "userDefined": false
+      },
+      {
+        "text": "mth",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550594137
+  },
+  {
+    "id": "fe8d3b95-6b43-496e-b1fd-d943a56e0ec3",
+    "data": [
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " specific course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550592365
+  },
+  {
+    "id": "65a36a80-960f-4cb0-9c2a-c84cb30fa678",
+    "data": [
+      {
+        "text": "a specific course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550592365
+  },
+  {
+    "id": "a5716560-abc8-417f-bfd4-263755c207f0",
+    "data": [
+      {
+        "text": "specific course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550592365
+  }
+]
