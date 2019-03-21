@@ -12,7 +12,10 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Let me know when you want to talk about classes again!"
+          "speech": [
+            "Let me know when you want to talk about classes again!",
+            "Okay, good bye."
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
@@ -22,7 +25,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1550507902,
+  "lastUpdate": 1550639514,
   "fallbackIntent": false,
   "events": [
     {

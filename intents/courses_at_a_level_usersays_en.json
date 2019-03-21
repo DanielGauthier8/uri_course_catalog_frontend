@@ -1,0 +1,249 @@
+[
+  {
+    "id": "7cf52e09-53c4-4bd5-8e50-ea72ec4c8767",
+    "data": [
+      {
+        "text": "search by level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "915f868e-d285-477e-ad01-b63b7c9d0e21",
+    "data": [
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "eng",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3b2ca23-9324-4b37-a45c-cadbab3d84ab",
+    "data": [
+      {
+        "text": "200",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "bio",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "590da12c-799f-4f3d-a2ef-c2ff5ebdc506",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "bio",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "041b1f3d-4a2f-4b80-8e36-03a549e9f187",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "ger",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7a3edaf-312f-498c-802b-641d973ba46e",
+    "data": [
+      {
+        "text": "300",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "wrt",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a78103c4-fb56-4293-9230-3674f8bf0660",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " course at the ",
+        "userDefined": false
+      },
+      {
+        "text": "400",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fceef2b5-78e6-443c-87b7-827dcc850343",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "400",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4220dc19-d38f-42e6-a772-8e27c346fd1b",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "400",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

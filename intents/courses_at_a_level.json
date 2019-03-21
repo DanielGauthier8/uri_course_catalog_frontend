@@ -1,31 +1,21 @@
 {
-  "id": "41b33d65-fea0-4512-9c3f-4306447f3fb3",
-  "name": "course_specific",
+  "id": "231fb669-d332-440f-b5dd-435c7c7e78d5",
+  "name": "courses_at_a_level",
   "auto": true,
   "contexts": [],
   "responses": [
     {
-      "resetContexts": true,
+      "resetContexts": false,
       "affectedContexts": [
         {
-          "name": "google_assistant_welcome",
-          "parameters": {},
-          "lifespan": 5
-        },
-        {
-          "name": "specific_course-followup",
-          "parameters": {},
-          "lifespan": 2
-        },
-        {
-          "name": "course_specific-followup",
+          "name": "courses_at_a_level-followup",
           "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
-          "id": "b2cf16e3-fb55-43b7-8c46-6768ad543a46",
+          "id": "5c074aaf-cb1f-4d3c-875a-5a08edf92eda",
           "required": true,
           "dataType": "@courseSubject",
           "name": "courseSubject",
@@ -33,29 +23,25 @@
           "prompts": [
             {
               "lang": "en",
-              "value": "What is the course subject?"
+              "value": "What\u0027s the course subject?"
             },
             {
               "lang": "en",
-              "value": "What is the course subject for that?"
+              "value": "Could you provide the course subject?"
             },
             {
               "lang": "en",
-              "value": "Could you give me the course subject"
+              "value": "What about the course\u0027s subject?"
             },
             {
               "lang": "en",
-              "value": "How about the course\u0027s subject?"
-            },
-            {
-              "lang": "en",
-              "value": "What\u0027s the subject?"
+              "value": "Could you give me the course subject?"
             }
           ],
           "isList": false
         },
         {
-          "id": "ad14b89b-934a-437b-946f-46ddd98289cc",
+          "id": "aeeb93b8-3cdc-4b5c-8747-79ad9a361a22",
           "required": true,
           "dataType": "@sys.number",
           "name": "courseNumber1",
@@ -63,15 +49,11 @@
           "prompts": [
             {
               "lang": "en",
-              "value": "Could you provide the course number?"
+              "value": "Course level?"
             },
             {
               "lang": "en",
-              "value": "What about the course\u0027s number?"
-            },
-            {
-              "lang": "en",
-              "value": "What\u0027s the course number?"
+              "value": "What\u0027s the course level?"
             }
           ],
           "isList": false
@@ -84,16 +66,13 @@
           "speech": []
         }
       ],
-      "defaultResponsePlatforms": {
-        "google": false
-      },
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1550626277,
   "fallbackIntent": false,
   "events": []
 }

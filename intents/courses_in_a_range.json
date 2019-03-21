@@ -15,29 +15,11 @@
       ],
       "parameters": [
         {
-          "id": "f8defc9c-69ed-4a1b-ac8b-4659729292cf",
-          "required": true,
-          "dataType": "@courseSubject",
-          "name": "courseSubject",
-          "value": "$courseSubject",
-          "prompts": [
-            {
-              "lang": "en",
-              "value": "What is the course\u0027s subject?"
-            },
-            {
-              "lang": "en",
-              "value": "What\u0027s the subject for the course?"
-            }
-          ],
-          "isList": false
-        },
-        {
           "id": "67cab1be-8287-4fbb-a09d-2515142017b5",
           "required": true,
-          "dataType": "@sys.cardinal",
-          "name": "cardinal1",
-          "value": "$cardinal1",
+          "dataType": "@sys.number",
+          "name": "courseNumber1",
+          "value": "$courseNumber1",
           "prompts": [
             {
               "lang": "en",
@@ -53,9 +35,9 @@
         {
           "id": "6dde06e9-dd40-47b2-8b3f-d4b608332257",
           "required": true,
-          "dataType": "@sys.cardinal",
-          "name": "cardinal2",
-          "value": "$cardinal2",
+          "dataType": "@sys.number",
+          "name": "courseNumber2",
+          "value": "$courseNumber2",
           "prompts": [
             {
               "lang": "en",
@@ -64,6 +46,32 @@
             {
               "lang": "en",
               "value": "What\u0027s the range\u0027s maximum value?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "6e795d91-b136-411e-b2ca-0a0075177458",
+          "required": true,
+          "dataType": "@courseSubject",
+          "name": "courseSubject",
+          "value": "$courseSubject",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Could you provide the course number?"
+            },
+            {
+              "lang": "en",
+              "value": "What\u0027s the course number?"
+            },
+            {
+              "lang": "en",
+              "value": "What about the course\u0027s number?"
+            },
+            {
+              "lang": "en",
+              "value": "Could you give me the course number"
             }
           ],
           "isList": false

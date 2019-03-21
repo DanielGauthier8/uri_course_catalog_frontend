@@ -13,6 +13,15 @@
           "type": 0,
           "lang": "en",
           "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please say the name of a class and course number?",
+            "What would you like to hear about?",
+            "Sorry we\u0027re having trouble. Let\u0027s try this again later?"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
@@ -20,7 +29,7 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": true,
+  "webhookUsed": false,
   "webhookForSlotFilling": false,
   "lastUpdate": 1550027475,
   "fallbackIntent": false,

@@ -1,45 +1,286 @@
 [
   {
-    "id": "7a87277b-2cc0-405f-9bda-fa6956f5910f",
+    "id": "64f987fe-f04e-4087-b576-51dcc28a827c",
     "data": [
       {
-        "text": "math",
+        "text": "mth",
         "alias": "courseSubject",
         "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "101",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "49c6b8df-2a59-4ec5-8da1-3c69d61c6a6b",
+    "data": [
+      {
+        "text": "mth",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "141",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1853ff79-fb74-4046-ab85-f3fa3934ef5f",
+    "data": [
+      {
+        "text": "mth",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "104",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59995ad7-a137-47be-b982-6e289feb0b77",
+    "data": [
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "106",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93e0ca37-61c2-4d25-9c36-5bb9aaac0be2",
+    "data": [
+      {
+        "text": "theater",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "201",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46872564-6831-4071-83d9-aad9f6dff9bf",
+    "data": [
+      {
+        "text": "theater",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1799754-a14e-4627-a3b1-8eeb8b8b070e",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Art",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "101",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1550594674
+    "updated": 0
   },
   {
-    "id": "04e64362-844f-4582-a710-849f53946de5",
+    "id": "a093ea7f-2a82-4ade-8b63-b77bb4456bb7",
     "data": [
       {
-        "text": "eng",
+        "text": "mth",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "106",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5716560-abc8-417f-bfd4-263755c207f0",
+    "data": [
+      {
+        "text": "specific course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1550592365
+  },
+  {
+    "id": "dc0f810f-dd68-4e8f-b93a-26f4fa7204ce",
+    "data": [
+      {
+        "text": "COM",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0aeb17b4-935f-4295-9943-02146761250a",
+    "data": [
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "412",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47f71bad-0afc-43fd-97f2-7938beb5a648",
+    "data": [
+      {
+        "text": "computer science",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "106",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4a0618de-f7ac-46be-af38-a11db7d8deb0",
+    "data": [
+      {
+        "text": "computer science",
         "alias": "courseSubject",
         "meta": "@courseSubject",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0,
-    "updated": 1550594242
-  },
-  {
-    "id": "a04ecfb0-747d-4c2e-99e0-96731e893571",
-    "data": [
-      {
-        "text": "200",
-        "alias": "courseNumber",
-        "meta": "@sys.cardinal",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1550626277
+    "count": 1,
+    "updated": 0
   },
   {
     "id": "c0b16c1f-290e-411e-9ca4-aece338a903e",
@@ -89,8 +330,8 @@
       },
       {
         "text": "234",
-        "alias": "courseNumber",
-        "meta": "@sys.cardinal",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
         "userDefined": false
       }
     ],
@@ -122,8 +363,8 @@
       },
       {
         "text": "106",
-        "alias": "courseNumber",
-        "meta": "@sys.cardinal",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
         "userDefined": false
       }
     ],
@@ -199,18 +440,6 @@
     "data": [
       {
         "text": "a specific course",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1550592365
-  },
-  {
-    "id": "a5716560-abc8-417f-bfd4-263755c207f0",
-    "data": [
-      {
-        "text": "specific course",
         "userDefined": false
       }
     ],

@@ -11,21 +11,15 @@
       "action": "course_specific.course_specific-no",
       "affectedContexts": [],
       "parameters": [],
-      "messages": [
-        {
-          "type": 0,
-          "lang": "en",
-          "speech": "Okay, good bye."
-        }
-      ],
+      "messages": [],
       "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1550629801,
+  "lastUpdate": 1550639501,
   "fallbackIntent": false,
   "events": []
 }
