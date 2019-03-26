@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1d76693b-ba51-4071-8207-23c2788c054f",
+    "data": [
+      {
+        "text": "sources",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "0feadb5b-3e13-4ce4-b87f-01ea5d424ceb",
+    "data": [
+      {
+        "text": "who is this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550627946
+  },
+  {
+    "id": "a6ebbdd7-27ba-4610-8380-5f00d028dfab",
+    "data": [
+      {
+        "text": "how did you know that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3df6a862-efdc-4020-a146-9890cea9b604",
+    "data": [
+      {
+        "text": "how did you find that out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6812537d-866d-40e2-bd60-082964b74eaf",
+    "data": [
+      {
+        "text": "where did you get this information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7de7df75-f050-4b86-ac27-62522886e0f2",
+    "data": [
+      {
+        "text": "sources?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63888197-316f-43e0-b6a5-276deccb2d3d",
+    "data": [
+      {
+        "text": "what are your sources?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

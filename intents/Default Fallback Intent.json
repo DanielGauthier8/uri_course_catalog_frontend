@@ -11,6 +11,22 @@
       "parameters": [],
       "messages": [
         {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "specific course"
+            },
+            {
+              "title": "courses within a range"
+            },
+            {
+              "title": "courses at a level"
+            }
+          ]
+        },
+        {
           "type": 0,
           "lang": "en",
           "speech": [
@@ -30,7 +46,9 @@
           ]
         }
       ],
-      "defaultResponsePlatforms": {},
+      "defaultResponsePlatforms": {
+        "google": true
+      },
       "speech": []
     }
   ],

@@ -1,5 +1,507 @@
 [
   {
+    "id": "3c0cb32f-0cc8-42cc-88a1-f5756deadbbf",
+    "data": [
+      {
+        "text": "Courses within a range",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "updated": 1550599613
+  },
+  {
+    "id": "51aba893-fee0-4f25-8f72-bceb98603ea4",
+    "data": [
+      {
+        "text": "german",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55cd931d-0292-492e-80e5-5efb1ca82c88",
+    "data": [
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "courseNumber2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4cb18e6-d55e-44f9-af33-beaa687fc054",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "cyber security",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes from ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "400",
+        "alias": "courseNumber2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b72321e8-19bf-4874-8369-d56a7f856ca3",
+    "data": [
+      {
+        "text": "Lookup All ",
+        "userDefined": false
+      },
+      {
+        "text": "CSF",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62a66f9f-8444-43d0-9a1b-542cf75c2b26",
+    "data": [
+      {
+        "text": "courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0bb1a0d-c4ec-469d-a0ab-90080b4babd4",
+    "data": [
+      {
+        "text": "business",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes from ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "alias": "courseNumber2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86245ed3-963f-4234-b42e-a5a977658770",
+    "data": [
+      {
+        "text": "math",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes from ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "300",
+        "alias": "courseNumber2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f62a17be-45b5-428f-8d96-a8fba53e7725",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes from ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "400",
+        "alias": "courseNumber2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd49b707-67c9-483d-bfda-bd2d341fd3c8",
+    "data": [
+      {
+        "text": "Give me Information on ",
+        "userDefined": false
+      },
+      {
+        "text": "French",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes from ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "300",
+        "alias": "courseNumber2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97356cc3-0f57-4a39-aed2-c9517a7116e2",
+    "data": [
+      {
+        "text": "Give me information on all the ",
+        "userDefined": false
+      },
+      {
+        "text": "Greek",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7330e34b-69f6-4e74-a8bf-9f4aecb023fc",
+    "data": [
+      {
+        "text": "Give me all the ",
+        "userDefined": false
+      },
+      {
+        "text": "italian",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95ffdb8d-68bd-43c5-b190-0569e53e1f15",
+    "data": [
+      {
+        "text": "Give me all the ",
+        "userDefined": false
+      },
+      {
+        "text": "Spanish",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "208d6c67-186e-4e9d-886e-6cce7f8f1d1d",
+    "data": [
+      {
+        "text": "Give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "Spanish",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d3df232-d6c9-41b0-a034-c5ae298931cc",
+    "data": [
+      {
+        "text": "What is the course options for ",
+        "userDefined": false
+      },
+      {
+        "text": "math",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes from ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "courseNumber2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9489058-902d-460c-a564-3fe9a88ce160",
+    "data": [
+      {
+        "text": "How about ",
+        "userDefined": false
+      },
+      {
+        "text": "writing",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes from ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "courseNumber2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47a5a96d-d958-4fbc-8698-1766823a1a09",
+    "data": [
+      {
+        "text": "Are there any microeconomics courses from ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "courseNumber2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "944764a4-aa2c-442b-a606-cbd24dd8959f",
+    "data": [
+      {
+        "text": "Economics",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d455e3b5-d6df-404b-9bc6-2a4ed2f4c988",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "math",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes at uri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "393259ae-d7cc-4d19-9a4d-38147e8cbaf1",
     "data": [
       {
@@ -65,18 +567,6 @@
     "isTemplate": false,
     "count": 2,
     "updated": 0
-  },
-  {
-    "id": "3c0cb32f-0cc8-42cc-88a1-f5756deadbbf",
-    "data": [
-      {
-        "text": "Courses within a range",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 2,
-    "updated": 1550599613
   },
   {
     "id": "2e6f88a9-ce79-45b9-a677-87d0c37e6f11",

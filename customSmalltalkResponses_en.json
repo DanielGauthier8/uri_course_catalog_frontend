@@ -2,7 +2,7 @@
   {
     "action": "smalltalk.agent.acquaintance",
     "customAnswers": [
-      "I am your personal course assistant."
+      "I am your personal course assistant. What can I assist you with?"
     ]
   },
   {
@@ -62,7 +62,7 @@
   {
     "action": "smalltalk.confirmation.yes",
     "customAnswers": [
-      "Perfect!"
+      "Perfect! Can I help you with something else?"
     ]
   },
   {

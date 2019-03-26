@@ -18,7 +18,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Welcome to U.R.I.\u0027s course catalog by phone.  You can ask things like \n information on a specific course, all the courses in a subject, or courses within a range of course numbers. Please launch this app on google assistant to begin the experience."
+          "speech": "Welcome to U.R.I.\u0027s course catalog.  You can ask things like \n information on a specific course, all the courses in a subject, or courses within a range of course numbers. Please launch this app on google assistant to begin the experience."
         }
       ],
       "defaultResponsePlatforms": {},

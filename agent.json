@@ -14,6 +14,14 @@
       {
         "intentId": "41b33d65-fea0-4512-9c3f-4306447f3fb3",
         "signInRequired": false
+      },
+      {
+        "intentId": "80dfe63a-0548-4ab0-a769-102265cb6880",
+        "signInRequired": false
+      },
+      {
+        "intentId": "231fb669-d332-440f-b5dd-435c7c7e78d5",
+        "signInRequired": false
       }
     ],
     "systemIntents": [],
@@ -55,6 +63,6 @@
   "enabledKnowledgeBaseNames": [
     "projects/actions-codelab-5e166/knowledgeBases/MTEwMDc3Mjk4NzUxNTM4NDYyNzI"
   ],
-  "knowledgeServiceConfidenceAdjustment": 0.3,
+  "knowledgeServiceConfidenceAdjustment": -0.2,
   "dialogBuilderMode": false
 }

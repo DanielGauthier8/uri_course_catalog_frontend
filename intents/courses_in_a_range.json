@@ -59,19 +59,19 @@
           "prompts": [
             {
               "lang": "en",
-              "value": "Could you provide the course number?"
+              "value": "Could you provide the course subject?"
             },
             {
               "lang": "en",
-              "value": "What\u0027s the course number?"
+              "value": "What\u0027s the course subject?"
             },
             {
               "lang": "en",
-              "value": "What about the course\u0027s number?"
+              "value": "What about the course\u0027s subject?"
             },
             {
               "lang": "en",
-              "value": "Could you give me the course number"
+              "value": "Could you give me the course subject?"
             }
           ],
           "isList": false

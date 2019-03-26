@@ -1,0 +1,48 @@
+{
+  "id": "01d28adf-7d3c-4bd9-8cd7-713d94fe7a8f",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "specific course lookup"
+            },
+            {
+              "title": "lookup at a course level"
+            },
+            {
+              "title": "lookup courses in a range"
+            },
+            {
+              "title": "I lost my URI ID?"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\u003cspeak\u003eYou can say things such as, \"look up math 141\", or \"search for a computer science course between 200 and 300\".  I can understand complex sentences, as well as ask for information you may have not included. \u003cbreak time\u003d\"500ms\" /\u003e In addition to course information, I can answer common frequently asked questions about \u003csay-as interpret-as\u003d\"characters\"\u003eURI\u003c/say-as\u003e. \u003cbreak time\u003d\"900ms\" /\u003eWhat can I help you with?\u003c/speak\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
