@@ -5,14 +5,8 @@
   "contexts": [],
   "responses": [
     {
-      "resetContexts": false,
-      "affectedContexts": [
-        {
-          "name": "courses_at_a_level-followup",
-          "parameters": {},
-          "lifespan": 2
-        }
-      ],
+      "resetContexts": true,
+      "affectedContexts": [],
       "parameters": [
         {
           "id": "5c074aaf-cb1f-4d3c-875a-5a08edf92eda",

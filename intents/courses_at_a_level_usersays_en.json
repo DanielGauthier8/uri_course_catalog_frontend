@@ -1,5 +1,37 @@
 [
   {
+    "id": "7bc3c7b2-6a78-4b43-a812-4225ff928c10",
+    "data": [
+      {
+        "text": "Look up all ",
+        "userDefined": false
+      },
+      {
+        "text": "300",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "writing",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "66c73c81-f66f-4981-bf75-ed776a196426",
     "data": [
       {

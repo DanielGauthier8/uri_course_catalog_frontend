@@ -5,18 +5,8 @@
   "contexts": [],
   "responses": [
     {
-      "resetContexts": true,
+      "resetContexts": false,
       "affectedContexts": [
-        {
-          "name": "google_assistant_welcome",
-          "parameters": {},
-          "lifespan": 5
-        },
-        {
-          "name": "specific_course-followup",
-          "parameters": {},
-          "lifespan": 2
-        },
         {
           "name": "course_specific-followup",
           "parameters": {},

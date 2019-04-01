@@ -1,0 +1,33 @@
+{
+  "id": "ff816a63-a85e-442b-8b17-489351a715c2",
+  "parentId": "41b33d65-fea0-4512-9c3f-4306447f3fb3",
+  "rootParentId": "41b33d65-fea0-4512-9c3f-4306447f3fb3",
+  "name": "course_specific-prereq",
+  "auto": true,
+  "contexts": [
+    "course_specific-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "course_specific.course_specific-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}
