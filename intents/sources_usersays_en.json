@@ -1,17 +1,5 @@
 [
   {
-    "id": "1d76693b-ba51-4071-8207-23c2788c054f",
-    "data": [
-      {
-        "text": "sources",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 3,
-    "updated": 0
-  },
-  {
     "id": "0feadb5b-3e13-4ce4-b87f-01ea5d424ceb",
     "data": [
       {
@@ -24,10 +12,10 @@
     "updated": 1550627946
   },
   {
-    "id": "a6ebbdd7-27ba-4610-8380-5f00d028dfab",
+    "id": "63888197-316f-43e0-b6a5-276deccb2d3d",
     "data": [
       {
-        "text": "how did you know that?",
+        "text": "what are your sources?",
         "userDefined": false
       }
     ],
@@ -35,10 +23,22 @@
     "count": 0
   },
   {
-    "id": "3df6a862-efdc-4020-a146-9890cea9b604",
+    "id": "1d76693b-ba51-4071-8207-23c2788c054f",
     "data": [
       {
-        "text": "how did you find that out?",
+        "text": "sources",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "7de7df75-f050-4b86-ac27-62522886e0f2",
+    "data": [
+      {
+        "text": "sources?",
         "userDefined": false
       }
     ],
@@ -57,10 +57,10 @@
     "count": 0
   },
   {
-    "id": "7de7df75-f050-4b86-ac27-62522886e0f2",
+    "id": "3df6a862-efdc-4020-a146-9890cea9b604",
     "data": [
       {
-        "text": "sources?",
+        "text": "how did you find that out?",
         "userDefined": false
       }
     ],
@@ -68,10 +68,10 @@
     "count": 0
   },
   {
-    "id": "63888197-316f-43e0-b6a5-276deccb2d3d",
+    "id": "a6ebbdd7-27ba-4610-8380-5f00d028dfab",
     "data": [
       {
-        "text": "what are your sources?",
+        "text": "how did you know that?",
         "userDefined": false
       }
     ],

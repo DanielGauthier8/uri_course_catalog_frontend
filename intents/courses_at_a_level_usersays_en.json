@@ -1,5 +1,33 @@
 [
   {
+    "id": "f61e9931-8482-45a4-852e-f7c2d056eff6",
+    "data": [
+      {
+        "text": "English",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes at the ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "7bc3c7b2-6a78-4b43-a812-4225ff928c10",
     "data": [
       {
@@ -32,6 +60,120 @@
     "updated": 0
   },
   {
+    "id": "915f868e-d285-477e-ad01-b63b7c9d0e21",
+    "data": [
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "eng",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ece68a2b-0fa4-4a52-975a-15bd79fcd07a",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "400",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level classes for ",
+        "userDefined": false
+      },
+      {
+        "text": "math",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f21a0d72-9951-481e-8989-4f77dec090d3",
+    "data": [
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "writing",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4220dc19-d38f-42e6-a772-8e27c346fd1b",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "400",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
     "id": "66c73c81-f66f-4981-bf75-ed776a196426",
     "data": [
       {
@@ -60,30 +202,151 @@
       }
     ],
     "isTemplate": false,
-    "count": 2,
+    "count": 3,
     "updated": 0
   },
   {
-    "id": "ece68a2b-0fa4-4a52-975a-15bd79fcd07a",
+    "id": "c55f15ae-3bde-47e0-ada0-6c8aceaf05f0",
     "data": [
       {
-        "text": "what about ",
+        "text": "What are the ",
         "userDefined": false
       },
       {
-        "text": "400",
+        "text": "100",
         "alias": "courseNumber1",
         "meta": "@sys.number",
         "userDefined": false
       },
       {
-        "text": " level classes for ",
+        "text": " level ",
         "userDefined": false
       },
       {
         "text": "math",
         "alias": "courseSubject",
         "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cf52e09-53c4-4bd5-8e50-ea72ec4c8767",
+    "data": [
+      {
+        "text": "search by level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "6170e966-f3b7-4422-9382-4cc5e3dd4c84",
+    "data": [
+      {
+        "text": "courses at ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "559391da-1fbf-4856-8154-f083a54b1ed5",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "Ecn",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " classes are there at the ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fceef2b5-78e6-443c-87b7-827dcc850343",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "400",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a208f60e-c0e0-4766-b555-1652c84611ee",
+    "data": [
+      {
+        "text": "lookup at ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " course level",
         "userDefined": false
       }
     ],
@@ -124,50 +387,6 @@
     "updated": 0
   },
   {
-    "id": "7cf52e09-53c4-4bd5-8e50-ea72ec4c8767",
-    "data": [
-      {
-        "text": "search by level",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 2,
-    "updated": 0
-  },
-  {
-    "id": "89a6001d-d565-47db-9d2a-b2a04c5b5c81",
-    "data": [
-      {
-        "text": "give me ",
-        "userDefined": false
-      },
-      {
-        "text": "500",
-        "alias": "courseNumber1",
-        "meta": "@sys.number",
-        "userDefined": false
-      },
-      {
-        "text": " level ",
-        "userDefined": false
-      },
-      {
-        "text": "cyber security",
-        "alias": "courseSubject",
-        "meta": "@courseSubject",
-        "userDefined": false
-      },
-      {
-        "text": " classes",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
     "id": "7b509735-2591-4d96-8924-acb4637c2113",
     "data": [
       {
@@ -182,34 +401,6 @@
       },
       {
         "text": "500",
-        "alias": "courseNumber1",
-        "meta": "@sys.number",
-        "userDefined": false
-      },
-      {
-        "text": " level",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "f61e9931-8482-45a4-852e-f7c2d056eff6",
-    "data": [
-      {
-        "text": "English",
-        "alias": "courseSubject",
-        "meta": "@courseSubject",
-        "userDefined": false
-      },
-      {
-        "text": " classes at the ",
-        "userDefined": false
-      },
-      {
-        "text": "100",
         "alias": "courseNumber1",
         "meta": "@sys.number",
         "userDefined": false
@@ -256,46 +447,14 @@
     "updated": 0
   },
   {
-    "id": "559391da-1fbf-4856-8154-f083a54b1ed5",
+    "id": "041b1f3d-4a2f-4b80-8e36-03a549e9f187",
     "data": [
       {
-        "text": "How many ",
+        "text": "a ",
         "userDefined": false
       },
       {
-        "text": "Ecn",
-        "alias": "courseSubject",
-        "meta": "@courseSubject",
-        "userDefined": false
-      },
-      {
-        "text": " classes are there at the ",
-        "userDefined": false
-      },
-      {
-        "text": "500",
-        "alias": "courseNumber1",
-        "meta": "@sys.number",
-        "userDefined": false
-      },
-      {
-        "text": " level",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "c55f15ae-3bde-47e0-ada0-6c8aceaf05f0",
-    "data": [
-      {
-        "text": "What are the ",
-        "userDefined": false
-      },
-      {
-        "text": "100",
+        "text": "200",
         "alias": "courseNumber1",
         "meta": "@sys.number",
         "userDefined": false
@@ -305,97 +464,13 @@
         "userDefined": false
       },
       {
-        "text": "math",
+        "text": "ger",
         "alias": "courseSubject",
         "meta": "@courseSubject",
         "userDefined": false
       },
       {
-        "text": " classes",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "49e5d1ba-7ea5-43ab-aaa0-40677a02c46c",
-    "data": [
-      {
-        "text": "100",
-        "alias": "courseNumber1",
-        "meta": "@sys.number",
-        "userDefined": false
-      },
-      {
-        "text": " level ",
-        "userDefined": false
-      },
-      {
-        "text": "csc",
-        "alias": "courseSubject",
-        "meta": "@courseSubject",
-        "userDefined": false
-      },
-      {
-        "text": " courses",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "f21a0d72-9951-481e-8989-4f77dec090d3",
-    "data": [
-      {
-        "text": "100",
-        "alias": "courseNumber1",
-        "meta": "@sys.number",
-        "userDefined": false
-      },
-      {
-        "text": " level ",
-        "userDefined": false
-      },
-      {
-        "text": "writing",
-        "alias": "courseSubject",
-        "meta": "@courseSubject",
-        "userDefined": false
-      },
-      {
-        "text": " courses",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "915f868e-d285-477e-ad01-b63b7c9d0e21",
-    "data": [
-      {
-        "text": "100",
-        "alias": "courseNumber1",
-        "meta": "@sys.number",
-        "userDefined": false
-      },
-      {
-        "text": " level ",
-        "userDefined": false
-      },
-      {
-        "text": "eng",
-        "alias": "courseSubject",
-        "meta": "@courseSubject",
-        "userDefined": false
-      },
-      {
-        "text": " classes",
+        "text": " class",
         "userDefined": false
       }
     ],
@@ -430,6 +505,34 @@
     "count": 0
   },
   {
+    "id": "49e5d1ba-7ea5-43ab-aaa0-40677a02c46c",
+    "data": [
+      {
+        "text": "100",
+        "alias": "courseNumber1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "csc",
+        "alias": "courseSubject",
+        "meta": "@courseSubject",
+        "userDefined": false
+      },
+      {
+        "text": " courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "590da12c-799f-4f3d-a2ef-c2ff5ebdc506",
     "data": [
       {
@@ -454,37 +557,6 @@
       },
       {
         "text": " course",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "041b1f3d-4a2f-4b80-8e36-03a549e9f187",
-    "data": [
-      {
-        "text": "a ",
-        "userDefined": false
-      },
-      {
-        "text": "200",
-        "alias": "courseNumber1",
-        "meta": "@sys.number",
-        "userDefined": false
-      },
-      {
-        "text": " level ",
-        "userDefined": false
-      },
-      {
-        "text": "ger",
-        "alias": "courseSubject",
-        "meta": "@courseSubject",
-        "userDefined": false
-      },
-      {
-        "text": " class",
         "userDefined": false
       }
     ],
@@ -550,45 +622,14 @@
     "count": 0
   },
   {
-    "id": "fceef2b5-78e6-443c-87b7-827dcc850343",
+    "id": "89a6001d-d565-47db-9d2a-b2a04c5b5c81",
     "data": [
       {
-        "text": "a ",
+        "text": "give me ",
         "userDefined": false
       },
       {
-        "text": "400",
-        "alias": "courseNumber1",
-        "meta": "@sys.number",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "csc",
-        "alias": "courseSubject",
-        "meta": "@courseSubject",
-        "userDefined": false
-      },
-      {
-        "text": " course",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "4220dc19-d38f-42e6-a772-8e27c346fd1b",
-    "data": [
-      {
-        "text": "a ",
-        "userDefined": false
-      },
-      {
-        "text": "400",
+        "text": "500",
         "alias": "courseNumber1",
         "meta": "@sys.number",
         "userDefined": false
@@ -598,17 +639,18 @@
         "userDefined": false
       },
       {
-        "text": "csc",
+        "text": "cyber security",
         "alias": "courseSubject",
         "meta": "@courseSubject",
         "userDefined": false
       },
       {
-        "text": " course",
+        "text": " classes",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 0
   }
 ]

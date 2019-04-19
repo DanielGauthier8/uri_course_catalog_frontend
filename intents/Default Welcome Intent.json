@@ -9,13 +9,55 @@
       "action": "input.welcome",
       "affectedContexts": [],
       "parameters": [],
-      "messages": [],
-      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003e Hello and welcome to the University of Rhode Island course catalog! \u003cbreak time\u003d\"1s\" /\u003e I am looking forward to assisting you with your quest to find course information. Just say help if you need guidance using the application. What can I help you with? \u003c/speak\u003e",
+          "displayText": "Hello and welcome to URI Course Catalog!  You can look up things such as courses of a subject in a range, specific courses, and answers to frequently asked questions. What can I help you with?"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "specific course"
+            },
+            {
+              "title": "courses within a range"
+            },
+            {
+              "title": "courses at a level"
+            },
+            {
+              "title": "no thanks"
+            }
+          ]
+        },
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "text": "Hello and welcome to the University of Rhode Island\u0027s Course Catalog!  Over the phone I am limited to only answering frequently asked questions about the university.  For specific course look-ups, please use our Google Action.  What can I help you with?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hello and welcome to URI Course Catalog!  You can look up things such as courses of a subject in a range, specific courses, and answers to frequently asked questions.  What can I help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": false,
+        "google": false
+      },
       "speech": []
     }
   ],
   "priority": 500000,
-  "webhookUsed": true,
+  "webhookUsed": false,
   "webhookForSlotFilling": false,
   "lastUpdate": 1550628479,
   "fallbackIntent": false,
@@ -25,6 +67,9 @@
     },
     {
       "name": "WELCOME"
+    },
+    {
+      "name": "TELEPHONY_WELCOME"
     }
   ]
 }

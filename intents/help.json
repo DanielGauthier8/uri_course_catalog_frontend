@@ -10,6 +10,20 @@
       "parameters": [],
       "messages": [
         {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "text": "I can answer common frequently asked questions about. What can I help you with?"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "ssml": "\u003cspeak\u003eYou can say things such as, \"look up math 141\", or \"search for a computer science course between 200 and 300\".  I can understand complex sentences, as well as ask for information you may have not included. \u003cbreak time\u003d\"500ms\" /\u003e In addition to course information, I can answer common frequently asked questions about \u003csay-as interpret-as\u003d\"characters\"\u003eURI\u003c/say-as\u003e. \u003cbreak time\u003d\"900ms\" /\u003eWhat can I help you with?\u003c/speak\u003e",
+          "displayText": "You can say things such as, \"look up math 141\", or \"search for a computer science course between 200 and 300\".  I can understand complex sentences, as well as ask for information you may have not included. In addition to course information, I can answer common frequently asked questions. What can I help you with?"
+        },
+        {
           "type": "suggestion_chips",
           "platform": "google",
           "lang": "en",
@@ -31,11 +45,12 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "\u003cspeak\u003eYou can say things such as, \"look up math 141\", or \"search for a computer science course between 200 and 300\".  I can understand complex sentences, as well as ask for information you may have not included. \u003cbreak time\u003d\"500ms\" /\u003e In addition to course information, I can answer common frequently asked questions about \u003csay-as interpret-as\u003d\"characters\"\u003eURI\u003c/say-as\u003e. \u003cbreak time\u003d\"900ms\" /\u003eWhat can I help you with?\u003c/speak\u003e"
+          "speech": "You can say things such as, \"look up math 141\", or \"search for a computer science course between 200 and 300\".  I can understand complex sentences, as well as ask for information you may have not included. In addition to course information, I can answer common frequently asked questions about. What can I help you with?"
         }
       ],
       "defaultResponsePlatforms": {
-        "google": true
+        "google": false,
+        "telephony": false
       },
       "speech": []
     }

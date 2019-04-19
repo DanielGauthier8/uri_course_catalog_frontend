@@ -8,8 +8,7 @@
       },
       {
         "text": "URI Course Catalog",
-        "alias": "location",
-        "meta": "@sys.location",
+        "meta": "@sys.ignore",
         "userDefined": false
       }
     ],
@@ -18,16 +17,16 @@
     "updated": 0
   },
   {
-    "id": "28eebd63-fe36-4fbd-8685-99ea1585e912",
+    "id": "efe52a7b-1ca1-41ed-afaa-b9c22e142827",
     "data": [
       {
-        "text": "hi",
+        "text": "Hello",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0,
-    "updated": 0
+    "count": 3,
+    "updated": 1550628801
   },
   {
     "id": "aa91800a-523d-418a-a486-9c314c501bf0",
@@ -42,16 +41,16 @@
     "updated": 0
   },
   {
-    "id": "efe52a7b-1ca1-41ed-afaa-b9c22e142827",
+    "id": "28eebd63-fe36-4fbd-8685-99ea1585e912",
     "data": [
       {
-        "text": "Hello",
+        "text": "hi",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 3,
-    "updated": 1550628801
+    "count": 0,
+    "updated": 0
   },
   {
     "id": "1302db12-fed9-43a0-9591-035c1393cf37",

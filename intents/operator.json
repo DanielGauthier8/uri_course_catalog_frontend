@@ -1,0 +1,42 @@
+{
+  "id": "c3eba967-9f99-486d-acf1-7d2d37e81768",
+  "name": "operator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "This operation only works when calling this service from a mobile or landline device"
+        },
+        {
+          "type": 15,
+          "platform": "telephony",
+          "lang": "en",
+          "phoneNumber": "+14018741000"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I will now transfer you to the Kingston Campus."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

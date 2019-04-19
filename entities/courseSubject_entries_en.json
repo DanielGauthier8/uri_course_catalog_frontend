@@ -1,41 +1,5 @@
 [
   {
-    "value": "Aquaculture and Fisheries Science",
-    "synonyms": [
-      "Aquaculture Science",
-      "Fisheries Science",
-      "A.F.S.",
-      "AFS",
-      "Aquaculture and Fisheries Science",
-      "Aquaculture Science",
-      "Fisheries Science"
-    ]
-  },
-  {
-    "value": "American Studies",
-    "synonyms": [
-      "A.M.E.",
-      "AME",
-      "American Studies"
-    ]
-  },
-  {
-    "value": "Applied Mathematical Sciences",
-    "synonyms": [
-      "A.M.S.",
-      "AMS",
-      "Applied Mathematical Sciences"
-    ]
-  },
-  {
-    "value": "Anthropology",
-    "synonyms": [
-      "A.P.G.",
-      "APG",
-      "Anthropology"
-    ]
-  },
-  {
     "value": "Arabic",
     "synonyms": [
       "A.R.B.",
@@ -44,39 +8,41 @@
     ]
   },
   {
-    "value": "Art",
+    "value": "Computer Science",
     "synonyms": [
-      "A.R.T.",
-      "ART",
-      "Art"
+      "Computer",
+      "Computers",
+      "C.S.C.",
+      "CSC",
+      "Computer Science",
+      "Computer",
+      "Computers"
     ]
   },
   {
-    "value": "Astronomy",
+    "value": "Education",
     "synonyms": [
-      "A.S.T.",
-      "AST",
-      "Astronomy"
+      "E.D.C.",
+      "EDC",
+      "Education"
     ]
   },
   {
-    "value": "Animal and Veterinary Science",
+    "value": "Honors Program",
     "synonyms": [
-      "Animal Science",
-      "Veterinary Science",
-      "A.V.S.",
-      "AVS",
-      "Animal and Veterinary Science",
-      "Animal Science",
-      "Veterinary Science"
+      "Honors",
+      "H.P.R.",
+      "HPR",
+      "Honors Program",
+      "Honors"
     ]
   },
   {
-    "value": "Biological and Environmental Studies",
+    "value": "Biomedical Engineering",
     "synonyms": [
-      "B.E.S.",
-      "BES",
-      "Biological and Environmental Studies"
+      "B.M.E.",
+      "BME",
+      "Biomedical Engineering"
     ]
   },
   {
@@ -90,123 +56,27 @@
     ]
   },
   {
+    "value": "Applied Mathematical Sciences",
+    "synonyms": [
+      "A.M.S.",
+      "AMS",
+      "Applied Mathematical Sciences"
+    ]
+  },
+  {
+    "value": "Environmental Sciences",
+    "synonyms": [
+      "E.V.S.",
+      "EVS",
+      "Environmental Sciences"
+    ]
+  },
+  {
     "value": "Bachelor of Interdisciplinary Studies",
     "synonyms": [
       "B.I.S.",
       "BIS",
       "Bachelor of Interdisciplinary Studies"
-    ]
-  },
-  {
-    "value": "Biomedical Engineering",
-    "synonyms": [
-      "B.M.E.",
-      "BME",
-      "Biomedical Engineering"
-    ]
-  },
-  {
-    "value": "Biomedical and Pharmaceutical Sciences",
-    "synonyms": [
-      "B.P.S.",
-      "BPS",
-      "Biomedical and Pharmaceutical Sciences"
-    ]
-  },
-  {
-    "value": "Business",
-    "synonyms": [
-      "B.U.S.",
-      "BUS",
-      "Business"
-    ]
-  },
-  {
-    "value": "Criminal Justice",
-    "synonyms": [
-      "Criminal Justice System",
-      "C.C.J.",
-      "CCJ",
-      "Criminal Justice",
-      "Criminal Justice System"
-    ]
-  },
-  {
-    "value": "Chemical Engineering",
-    "synonyms": [
-      "C.H.E.",
-      "CHE",
-      "Chemical Engineering"
-    ]
-  },
-  {
-    "value": "Chemistry",
-    "synonyms": [
-      "C.H.M.",
-      "CHM",
-      "Chemistry"
-    ]
-  },
-  {
-    "value": "Chinese",
-    "synonyms": [
-      "C.H.N.",
-      "CHN",
-      "Chinese"
-    ]
-  },
-  {
-    "value": "Classics",
-    "synonyms": [
-      "C.L.A.",
-      "CLA",
-      "Classics"
-    ]
-  },
-  {
-    "value": "Comparative Literature Studies",
-    "synonyms": [
-      "C.L.S.",
-      "CLS",
-      "Comparative Literature Studies"
-    ]
-  },
-  {
-    "value": "Microbiology",
-    "synonyms": [
-      "Micro Biology",
-      "Microbio",
-      "C.M.B.",
-      "CMB",
-      "Microbiology",
-      "Micro Biology",
-      "Microbio"
-    ]
-  },
-  {
-    "value": "Communicative Disorders",
-    "synonyms": [
-      "C.M.D.",
-      "CMD",
-      "Communicative Disorders"
-    ]
-  },
-  {
-    "value": "Communication Studies",
-    "synonyms": [
-      "Communication",
-      "C.O.M.",
-      "COM",
-      "Communication Studies",
-      "Communication"
-    ]
-  },
-  {
-    "value": "Community Planning",
-    "synonyms": [
-      "C.P.L.",
-      "CPL",
-      "Community Planning"
     ]
   },
   {
@@ -224,84 +94,6 @@
     ]
   },
   {
-    "value": "Computer Science",
-    "synonyms": [
-      "Computer",
-      "Computers",
-      "C.S.C.",
-      "CSC",
-      "Computer Science",
-      "Computer",
-      "Computers"
-    ]
-  },
-  {
-    "value": "Digital Forensics and Cyber Security",
-    "synonyms": [
-      "Digital Forensics",
-      "Cyber Security",
-      "C.S.F.",
-      "CSF",
-      "Digital Forensics and Cyber Security",
-      "Digital Forensics",
-      "Cyber Security"
-    ]
-  },
-  {
-    "value": "Community Service",
-    "synonyms": [
-      "C.S.V.",
-      "CSV",
-      "Community Service"
-    ]
-  },
-  {
-    "value": "Civil and Environmental Engineering",
-    "synonyms": [
-      "Civil Engineering",
-      "Environmental Engineering",
-      "C.V.E.",
-      "CVE",
-      "Civil and Environmental Engineering",
-      "Civil Engineering",
-      "Environmental Engineering"
-    ]
-  },
-  {
-    "value": "Economics",
-    "synonyms": [
-      "E.C.N.",
-      "ECN",
-      "Economics"
-    ]
-  },
-  {
-    "value": "Education",
-    "synonyms": [
-      "E.D.C.",
-      "EDC",
-      "Education"
-    ]
-  },
-  {
-    "value": "Ph.D. in Education",
-    "synonyms": [
-      "E.D.P.",
-      "EDP",
-      "Ph.D. in Education"
-    ]
-  },
-  {
-    "value": "Special Education",
-    "synonyms": [
-      "Special Ed",
-      "E.D.S.",
-      "EDS",
-      "Special Education",
-      "Special Ed"
-    ]
-  },
-  {
     "value": "Environmental Economics",
     "synonyms": [
       "E.E.C.",
@@ -310,137 +102,11 @@
     ]
   },
   {
-    "value": "Engineering",
-    "synonyms": [
-      "General Engineering",
-      "E.G.R.",
-      "EGR",
-      "Engineering",
-      "General Engineering"
-    ]
-  },
-  {
-    "value": "Electrical Engineering",
-    "synonyms": [
-      "E.L.E.",
-      "ELE",
-      "Electrical Engineering"
-    ]
-  },
-  {
-    "value": "English Language Studies",
-    "synonyms": [
-      "E.L.S.",
-      "ELS",
-      "English Language Studies"
-    ]
-  },
-  {
-    "value": "English",
-    "synonyms": [
-      "E.N.G.",
-      "ENG",
-      "English"
-    ]
-  },
-  {
-    "value": "Entomology",
-    "synonyms": [
-      "E.N.T.",
-      "ENT",
-      "Entomology"
-    ]
-  },
-  {
-    "value": "Environmental Sciences",
-    "synonyms": [
-      "E.V.S.",
-      "EVS",
-      "Environmental Sciences"
-    ]
-  },
-  {
-    "value": "Film Media",
-    "synonyms": [
-      "F.L.M.",
-      "FLM",
-      "Film Media"
-    ]
-  },
-  {
-    "value": "Forensic Science",
-    "synonyms": [
-      "F.O.S.",
-      "FOS",
-      "Forensic Science"
-    ]
-  },
-  {
-    "value": "French",
-    "synonyms": [
-      "F.R.N.",
-      "FRN",
-      "French"
-    ]
-  },
-  {
-    "value": "Grand Challenges",
-    "synonyms": [
-      "Grand Challenge",
-      "G.C.H.",
-      "GCH",
-      "Grand Challenges",
-      "Grand Challenge"
-    ]
-  },
-  {
-    "value": "Geography",
-    "synonyms": [
-      "G.E.G.",
-      "GEG",
-      "Geography"
-    ]
-  },
-  {
-    "value": "Geosciences",
-    "synonyms": [
-      "G.E.O.",
-      "GEO",
-      "Geosciences"
-    ]
-  },
-  {
     "value": "German",
     "synonyms": [
       "G.E.R.",
       "GER",
       "German"
-    ]
-  },
-  {
-    "value": "Greek",
-    "synonyms": [
-      "G.R.K.",
-      "GRK",
-      "Greek"
-    ]
-  },
-  {
-    "value": "Gender and Women’s Studies",
-    "synonyms": [
-      "Gender",
-      "G.W.S.",
-      "GWS",
-      "Gender and Women’s Studies",
-      "Gender"
-    ]
-  },
-  {
-    "value": "Hebrew",
-    "synonyms": [
-      "H.B.W.",
-      "HBW",
-      "Hebrew"
     ]
   },
   {
@@ -464,37 +130,85 @@
     ]
   },
   {
-    "value": "Health",
-    "synonyms": [
-      "H.L.T.",
-      "HLT",
-      "Health"
-    ]
-  },
-  {
-    "value": "Honors Program",
-    "synonyms": [
-      "Honors",
-      "H.P.R.",
-      "HPR",
-      "Honors Program",
-      "Honors"
-    ]
-  },
-  {
-    "value": "Health Services Administration",
-    "synonyms": [
-      "H.S.A.",
-      "HSA",
-      "Health Services Administration"
-    ]
-  },
-  {
     "value": "Human Science and Services",
     "synonyms": [
       "H.S.S.",
       "HSS",
       "Human Science and Services"
+    ]
+  },
+  {
+    "value": "American Studies",
+    "synonyms": [
+      "A.M.E.",
+      "AME",
+      "American Studies"
+    ]
+  },
+  {
+    "value": "Anthropology",
+    "synonyms": [
+      "A.P.G.",
+      "APG",
+      "Anthropology"
+    ]
+  },
+  {
+    "value": "Chinese",
+    "synonyms": [
+      "C.H.N.",
+      "CHN",
+      "Chinese"
+    ]
+  },
+  {
+    "value": "Astronomy",
+    "synonyms": [
+      "A.S.T.",
+      "AST",
+      "Astronomy"
+    ]
+  },
+  {
+    "value": "Art",
+    "synonyms": [
+      "A.R.T.",
+      "ART",
+      "Art"
+    ]
+  },
+  {
+    "value": "Chemical Engineering",
+    "synonyms": [
+      "C.H.E.",
+      "CHE",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "value": "Comparative Literature Studies",
+    "synonyms": [
+      "C.L.S.",
+      "CLS",
+      "Comparative Literature Studies"
+    ]
+  },
+  {
+    "value": "Special Education",
+    "synonyms": [
+      "Special Ed",
+      "E.D.S.",
+      "EDS",
+      "Special Education",
+      "Special Ed"
+    ]
+  },
+  {
+    "value": "Film Media",
+    "synonyms": [
+      "F.L.M.",
+      "FLM",
+      "Film Media"
     ]
   },
   {
@@ -506,19 +220,37 @@
     ]
   },
   {
-    "value": "Italian",
+    "value": "Japanese",
     "synonyms": [
-      "I.T.L.",
-      "ITL",
-      "Italian"
+      "J.P.N.",
+      "JPN",
+      "Japanese"
     ]
   },
   {
-    "value": "Internships and Experiential Education",
+    "value": "Chemistry",
     "synonyms": [
-      "I.T.R.",
-      "ITR",
-      "Internships and Experiential Education"
+      "C.H.M.",
+      "CHM",
+      "Chemistry"
+    ]
+  },
+  {
+    "value": "Community Service",
+    "synonyms": [
+      "C.S.V.",
+      "CSV",
+      "Community Service"
+    ]
+  },
+  {
+    "value": "Gender and Women’s Studies",
+    "synonyms": [
+      "Gender",
+      "G.W.S.",
+      "GWS",
+      "Gender and Women’s Studies",
+      "Gender"
     ]
   },
   {
@@ -530,11 +262,157 @@
     ]
   },
   {
-    "value": "Japanese",
+    "value": "Digital Forensics and Cyber Security",
     "synonyms": [
-      "J.P.N.",
-      "JPN",
-      "Japanese"
+      "Digital Forensics",
+      "Cyber Security",
+      "C.S.F.",
+      "CSF",
+      "Digital Forensics and Cyber Security",
+      "Digital Forensics",
+      "Cyber Security"
+    ]
+  },
+  {
+    "value": "Ph.D. in Education",
+    "synonyms": [
+      "E.D.P.",
+      "EDP",
+      "Ph.D. in Education"
+    ]
+  },
+  {
+    "value": "English Language Studies",
+    "synonyms": [
+      "E.L.S.",
+      "ELS",
+      "English Language Studies"
+    ]
+  },
+  {
+    "value": "Animal and Veterinary Science",
+    "synonyms": [
+      "Animal Science",
+      "Veterinary Science",
+      "A.V.S.",
+      "AVS",
+      "Animal and Veterinary Science",
+      "Animal Science",
+      "Veterinary Science"
+    ]
+  },
+  {
+    "value": "Business",
+    "synonyms": [
+      "B.U.S.",
+      "BUS",
+      "Business"
+    ]
+  },
+  {
+    "value": "Classics",
+    "synonyms": [
+      "C.L.A.",
+      "CLA",
+      "Classics"
+    ]
+  },
+  {
+    "value": "Microbiology",
+    "synonyms": [
+      "Micro Biology",
+      "Microbio",
+      "C.M.B.",
+      "CMB",
+      "Microbiology",
+      "Micro Biology",
+      "Microbio"
+    ]
+  },
+  {
+    "value": "Community Planning",
+    "synonyms": [
+      "C.P.L.",
+      "CPL",
+      "Community Planning"
+    ]
+  },
+  {
+    "value": "Economics",
+    "synonyms": [
+      "E.C.N.",
+      "ECN",
+      "Economics"
+    ]
+  },
+  {
+    "value": "Geosciences",
+    "synonyms": [
+      "G.E.O.",
+      "GEO",
+      "Geosciences"
+    ]
+  },
+  {
+    "value": "Criminal Justice",
+    "synonyms": [
+      "Criminal Justice System",
+      "C.C.J.",
+      "CCJ",
+      "Criminal Justice",
+      "Criminal Justice System"
+    ]
+  },
+  {
+    "value": "Electrical Engineering",
+    "synonyms": [
+      "E.L.E.",
+      "ELE",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "value": "Grand Challenges",
+    "synonyms": [
+      "Grand Challenge",
+      "G.C.H.",
+      "GCH",
+      "Grand Challenges",
+      "Grand Challenge"
+    ]
+  },
+  {
+    "value": "Health",
+    "synonyms": [
+      "H.L.T.",
+      "HLT",
+      "Health"
+    ]
+  },
+  {
+    "value": "Internships and Experiential Education",
+    "synonyms": [
+      "I.T.R.",
+      "ITR",
+      "Internships and Experiential Education"
+    ]
+  },
+  {
+    "value": "Engineering",
+    "synonyms": [
+      "General Engineering",
+      "E.G.R.",
+      "EGR",
+      "Engineering",
+      "General Engineering"
+    ]
+  },
+  {
+    "value": "Health Services Administration",
+    "synonyms": [
+      "H.S.A.",
+      "HSA",
+      "Health Services Administration"
     ]
   },
   {
@@ -546,6 +424,128 @@
     ]
   },
   {
+    "value": "Landscape Architecture",
+    "synonyms": [
+      "L.A.R.",
+      "LAR",
+      "Landscape Architecture"
+    ]
+  },
+  {
+    "value": "Biological and Environmental Studies",
+    "synonyms": [
+      "B.E.S.",
+      "BES",
+      "Biological and Environmental Studies"
+    ]
+  },
+  {
+    "value": "Aquaculture and Fisheries Science",
+    "synonyms": [
+      "Aquaculture Science",
+      "Fisheries Science",
+      "A.F.S.",
+      "AFS",
+      "Aquaculture and Fisheries Science",
+      "Aquaculture Science",
+      "Fisheries Science"
+    ]
+  },
+  {
+    "value": "Biomedical and Pharmaceutical Sciences",
+    "synonyms": [
+      "B.P.S.",
+      "BPS",
+      "Biomedical and Pharmaceutical Sciences"
+    ]
+  },
+  {
+    "value": "English",
+    "synonyms": [
+      "E.N.G.",
+      "ENG",
+      "English"
+    ]
+  },
+  {
+    "value": "French",
+    "synonyms": [
+      "F.R.N.",
+      "FRN",
+      "French"
+    ]
+  },
+  {
+    "value": "Communicative Disorders",
+    "synonyms": [
+      "C.M.D.",
+      "CMD",
+      "Communicative Disorders"
+    ]
+  },
+  {
+    "value": "Communication Studies",
+    "synonyms": [
+      "Communication",
+      "C.O.M.",
+      "COM",
+      "Communication Studies",
+      "Communication"
+    ]
+  },
+  {
+    "value": "Civil and Environmental Engineering",
+    "synonyms": [
+      "Civil Engineering",
+      "Environmental Engineering",
+      "C.V.E.",
+      "CVE",
+      "Civil and Environmental Engineering",
+      "Civil Engineering",
+      "Environmental Engineering"
+    ]
+  },
+  {
+    "value": "Hebrew",
+    "synonyms": [
+      "H.B.W.",
+      "HBW",
+      "Hebrew"
+    ]
+  },
+  {
+    "value": "Italian",
+    "synonyms": [
+      "I.T.L.",
+      "ITL",
+      "Italian"
+    ]
+  },
+  {
+    "value": "Forensic Science",
+    "synonyms": [
+      "F.O.S.",
+      "FOS",
+      "Forensic Science"
+    ]
+  },
+  {
+    "value": "Entomology",
+    "synonyms": [
+      "E.N.T.",
+      "ENT",
+      "Entomology"
+    ]
+  },
+  {
+    "value": "Greek",
+    "synonyms": [
+      "G.R.K.",
+      "GRK",
+      "Greek"
+    ]
+  },
+  {
     "value": "Languages",
     "synonyms": [
       "L.A.N.",
@@ -554,11 +554,35 @@
     ]
   },
   {
-    "value": "Landscape Architecture",
+    "value": "Geography",
     "synonyms": [
-      "L.A.R.",
-      "LAR",
-      "Landscape Architecture"
+      "G.E.G.",
+      "GEG",
+      "Geography"
+    ]
+  },
+  {
+    "value": "New England Studies",
+    "synonyms": [
+      "N.E.S.",
+      "NES",
+      "New England Studies"
+    ]
+  },
+  {
+    "value": "Sustainability",
+    "synonyms": [
+      "S.U.S.",
+      "SUS",
+      "Sustainability"
+    ]
+  },
+  {
+    "value": "Religious Studies",
+    "synonyms": [
+      "R.L.S.",
+      "RLS",
+      "Religious Studies"
     ]
   },
   {
@@ -570,35 +594,51 @@
     ]
   },
   {
-    "value": "Latin",
+    "value": "Philosophy",
     "synonyms": [
-      "L.A.T.",
-      "LAT",
-      "Latin"
+      "P.H.L.",
+      "PHL",
+      "Philosophy"
     ]
   },
   {
-    "value": "Letters",
+    "value": "Master of Science in Accounting",
     "synonyms": [
-      "L.E.T.",
-      "LET",
-      "Letters"
+      "M.A.C.",
+      "MAC",
+      "Master of Science in Accounting"
     ]
   },
   {
-    "value": "Library",
+    "value": "Nursing",
     "synonyms": [
-      "L.I.B.",
-      "LIB",
-      "Library"
+      "N.U.R.",
+      "NUR",
+      "Nursing"
     ]
   },
   {
-    "value": "Linguistics",
+    "value": "Textiles, Fashion Merchandising, and Design",
     "synonyms": [
-      "L.I.N.",
-      "LIN",
-      "Linguistics"
+      "T.M.D.",
+      "TMD",
+      "Textiles, Fashion Merchandising, and Design"
+    ]
+  },
+  {
+    "value": "Nonviolence and Peace Studies",
+    "synonyms": [
+      "N.V.P.",
+      "NVP",
+      "Nonviolence and Peace Studies"
+    ]
+  },
+  {
+    "value": "Ocean Engineering",
+    "synonyms": [
+      "O.C.E.",
+      "OCE",
+      "Ocean Engineering"
     ]
   },
   {
@@ -614,67 +654,11 @@
     ]
   },
   {
-    "value": "Library and Information Studies",
+    "value": "Portuguese",
     "synonyms": [
-      "L.S.C.",
-      "LSC",
-      "Library and Information Studies"
-    ]
-  },
-  {
-    "value": "Master of Science in Accounting",
-    "synonyms": [
-      "M.A.C.",
-      "MAC",
-      "Master of Science in Accounting"
-    ]
-  },
-  {
-    "value": "Marine Affairs",
-    "synonyms": [
-      "M.A.F.",
-      "MAF",
-      "Marine Affairs"
-    ]
-  },
-  {
-    "value": "Master’s in Business Administration",
-    "synonyms": [
-      "M.B.A.",
-      "MBA",
-      "Master’s in Business Administration"
-    ]
-  },
-  {
-    "value": "Mechanical Engineering",
-    "synonyms": [
-      "M.C.E.",
-      "MCE",
-      "Mechanical Engineering"
-    ]
-  },
-  {
-    "value": "Microbiology",
-    "synonyms": [
-      "M.I.C.",
-      "MIC",
-      "Microbiology"
-    ]
-  },
-  {
-    "value": "Medical Laboratory Science",
-    "synonyms": [
-      "M.L.S.",
-      "MLS",
-      "Medical Laboratory Science"
-    ]
-  },
-  {
-    "value": "Military Science and Leadership",
-    "synonyms": [
-      "M.S.L.",
-      "MSL",
-      "Military Science and Leadership"
+      "P.O.R.",
+      "POR",
+      "Portuguese"
     ]
   },
   {
@@ -688,40 +672,6 @@
     ]
   },
   {
-    "value": "Music",
-    "synonyms": [
-      "M.U.S.",
-      "MUS",
-      "Music"
-    ]
-  },
-  {
-    "value": "New England Studies",
-    "synonyms": [
-      "N.E.S.",
-      "NES",
-      "New England Studies"
-    ]
-  },
-  {
-    "value": "Neuroscience",
-    "synonyms": [
-      "N.E.U.",
-      "NEU",
-      "Neuroscience"
-    ]
-  },
-  {
-    "value": "Nutrition",
-    "synonyms": [
-      "Nutrition and Food Sciences",
-      "N.F.S.",
-      "NFS",
-      "Nutrition",
-      "Nutrition and Food Sciences"
-    ]
-  },
-  {
     "value": "Natural Resources Science",
     "synonyms": [
       "Natural Resources",
@@ -732,27 +682,19 @@
     ]
   },
   {
-    "value": "Nuclear Engineering",
+    "value": "Russian",
     "synonyms": [
-      "N.U.E.",
-      "NUE",
-      "Nuclear Engineering"
+      "R.U.S.",
+      "RUS",
+      "Russian"
     ]
   },
   {
-    "value": "Nursing",
+    "value": "Art History",
     "synonyms": [
-      "N.U.R.",
-      "NUR",
-      "Nursing"
-    ]
-  },
-  {
-    "value": "Nonviolence and Peace Studies",
-    "synonyms": [
-      "N.V.P.",
-      "NVP",
-      "Nonviolence and Peace Studies"
+      "A.R.H.",
+      "ARH",
+      "Art History"
     ]
   },
   {
@@ -765,113 +707,11 @@
     ]
   },
   {
-    "value": "Undergraduate Off Campus Study",
-    "synonyms": [
-      "Off Campus Study – Undergraduate",
-      "Undergraduate Off Campus Study",
-      "O.C.S.",
-      "OCG",
-      "Off Campus Study",
-      "Off Campus Study – Undergraduate",
-      "Undergraduate Off Campus Study"
-    ]
-  },
-  {
-    "value": "Graduate Off Campus Study",
-    "synonyms": [
-      "Graduate Off Campus Study",
-      "O.C.S.G.",
-      "OCSG",
-      "Off Campus Study – Graduate",
-      "Graduate Off Campus Study"
-    ]
-  },
-  {
-    "value": "Pharmacy",
-    "synonyms": [
-      "P.H.C.",
-      "PHC",
-      "Pharmacy"
-    ]
-  },
-  {
-    "value": "Philosophy",
-    "synonyms": [
-      "P.H.L.",
-      "PHL",
-      "Philosophy"
-    ]
-  },
-  {
-    "value": "Pharmacy Practice",
-    "synonyms": [
-      "P.H.P.",
-      "PHP",
-      "Pharmacy Practice"
-    ]
-  },
-  {
-    "value": "Physical Therapy",
-    "synonyms": [
-      "P.H.T.",
-      "PHT",
-      "Physical Therapy"
-    ]
-  },
-  {
-    "value": "Physics",
-    "synonyms": [
-      "P.H.Y.",
-      "PHY",
-      "Physics"
-    ]
-  },
-  {
-    "value": "Prior Learning Assessment",
-    "synonyms": [
-      "P.L.A.",
-      "PLA",
-      "Prior Learning Assessment"
-    ]
-  },
-  {
     "value": "Plant Sciences",
     "synonyms": [
       "P.L.S.",
       "PLS",
       "Plant Sciences"
-    ]
-  },
-  {
-    "value": "Portuguese",
-    "synonyms": [
-      "P.O.R.",
-      "POR",
-      "Portuguese"
-    ]
-  },
-  {
-    "value": "Public Relations",
-    "synonyms": [
-      "P.R.S.",
-      "PRS",
-      "Public Relations"
-    ]
-  },
-  {
-    "value": "Political Science",
-    "synonyms": [
-      "P.S.C.",
-      "PSC",
-      "Political Science"
-    ]
-  },
-  {
-    "value": "Psychology",
-    "synonyms": [
-      "P.S.Y.",
-      "PSY",
-      "Psychology"
     ]
   },
   {
@@ -893,22 +733,6 @@
     ]
   },
   {
-    "value": "Religious Studies",
-    "synonyms": [
-      "R.L.S.",
-      "RLS",
-      "Religious Studies"
-    ]
-  },
-  {
-    "value": "Russian",
-    "synonyms": [
-      "R.U.S.",
-      "RUS",
-      "Russian"
-    ]
-  },
-  {
     "value": "School of Communications and Media",
     "synonyms": [
       "S.C.M.",
@@ -925,67 +749,11 @@
     ]
   },
   {
-    "value": "Spanish",
-    "synonyms": [
-      "S.P.A.",
-      "SPA",
-      "Spanish"
-    ]
-  },
-  {
-    "value": "Statistics",
-    "synonyms": [
-      "S.T.A.",
-      "STA",
-      "Statistics"
-    ]
-  },
-  {
-    "value": "Sustainability",
-    "synonyms": [
-      "S.U.S.",
-      "SUS",
-      "Sustainability"
-    ]
-  },
-  {
-    "value": "Theatre",
-    "synonyms": [
-      "T.H.E.",
-      "THE",
-      "Theatre"
-    ]
-  },
-  {
     "value": "Thanatology",
     "synonyms": [
       "T.H.N.",
       "THN",
       "Thanatology"
-    ]
-  },
-  {
-    "value": "Textiles, Fashion Merchandising, and Design",
-    "synonyms": [
-      "T.M.D.",
-      "TMD",
-      "Textiles, Fashion Merchandising, and Design"
-    ]
-  },
-  {
-    "value": "University College for Academic Success",
-    "synonyms": [
-      "U.C.S.",
-      "UCS",
-      "University College for Academic Success"
-    ]
-  },
-  {
-    "value": "Urban Affairs",
-    "synonyms": [
-      "U.R.B.",
-      "URB",
-      "Urban Affairs"
     ]
   },
   {
@@ -997,27 +765,151 @@
     ]
   },
   {
-    "value": "Writing",
+    "value": "Library",
     "synonyms": [
-      "W.R.T.",
-      "WRT",
-      "Writing"
+      "L.I.B.",
+      "LIB",
+      "Library"
     ]
   },
   {
-    "value": "Ocean Engineering",
+    "value": "Urban Affairs",
     "synonyms": [
-      "O.C.E.",
-      "OCE",
-      "Ocean Engineering"
+      "U.R.B.",
+      "URB",
+      "Urban Affairs"
     ]
   },
   {
-    "value": "Biochemistry",
+    "value": "Microbiology",
     "synonyms": [
-      "B.C.H.",
-      "BCH",
-      "Biochemistry"
+      "M.I.C.",
+      "MIC",
+      "Microbiology"
+    ]
+  },
+  {
+    "value": "Linguistics",
+    "synonyms": [
+      "L.I.N.",
+      "LIN",
+      "Linguistics"
+    ]
+  },
+  {
+    "value": "Prior Learning Assessment",
+    "synonyms": [
+      "P.L.A.",
+      "PLA",
+      "Prior Learning Assessment"
+    ]
+  },
+  {
+    "value": "Political Science",
+    "synonyms": [
+      "P.S.C.",
+      "PSC",
+      "Political Science"
+    ]
+  },
+  {
+    "value": "Spanish",
+    "synonyms": [
+      "S.P.A.",
+      "SPA",
+      "Spanish"
+    ]
+  },
+  {
+    "value": "Theatre",
+    "synonyms": [
+      "T.H.E.",
+      "THE",
+      "Theatre"
+    ]
+  },
+  {
+    "value": "Latin",
+    "synonyms": [
+      "L.A.T.",
+      "LAT",
+      "Latin"
+    ]
+  },
+  {
+    "value": "Letters",
+    "synonyms": [
+      "L.E.T.",
+      "LET",
+      "Letters"
+    ]
+  },
+  {
+    "value": "Physical Therapy",
+    "synonyms": [
+      "P.H.T.",
+      "PHT",
+      "Physical Therapy"
+    ]
+  },
+  {
+    "value": "Military Science and Leadership",
+    "synonyms": [
+      "M.S.L.",
+      "MSL",
+      "Military Science and Leadership"
+    ]
+  },
+  {
+    "value": "Undergraduate Off Campus Study",
+    "synonyms": [
+      "Off Campus Study – Undergraduate",
+      "Undergraduate Off Campus Study",
+      "O.C.S.",
+      "OCG",
+      "Off Campus Study",
+      "Off Campus Study – Undergraduate",
+      "Undergraduate Off Campus Study"
+    ]
+  },
+  {
+    "value": "Marine Affairs",
+    "synonyms": [
+      "M.A.F.",
+      "MAF",
+      "Marine Affairs"
+    ]
+  },
+  {
+    "value": "Nuclear Engineering",
+    "synonyms": [
+      "N.U.E.",
+      "NUE",
+      "Nuclear Engineering"
+    ]
+  },
+  {
+    "value": "Pharmacy",
+    "synonyms": [
+      "P.H.C.",
+      "PHC",
+      "Pharmacy"
+    ]
+  },
+  {
+    "value": "Public Relations",
+    "synonyms": [
+      "P.R.S.",
+      "PRS",
+      "Public Relations"
+    ]
+  },
+  {
+    "value": "University College for Academic Success",
+    "synonyms": [
+      "U.C.S.",
+      "UCS",
+      "University College for Academic Success"
     ]
   },
   {
@@ -1029,11 +921,119 @@
     ]
   },
   {
-    "value": "Art History",
+    "value": "Writing",
     "synonyms": [
-      "A.R.H.",
-      "ARH",
-      "Art History"
+      "W.R.T.",
+      "WRT",
+      "Writing"
+    ]
+  },
+  {
+    "value": "Statistics",
+    "synonyms": [
+      "S.T.A.",
+      "STA",
+      "Statistics"
+    ]
+  },
+  {
+    "value": "Neuroscience",
+    "synonyms": [
+      "N.E.U.",
+      "NEU",
+      "Neuroscience"
+    ]
+  },
+  {
+    "value": "Library and Information Studies",
+    "synonyms": [
+      "L.S.C.",
+      "LSC",
+      "Library and Information Studies"
+    ]
+  },
+  {
+    "value": "Medical Laboratory Science",
+    "synonyms": [
+      "M.L.S.",
+      "MLS",
+      "Medical Laboratory Science"
+    ]
+  },
+  {
+    "value": "Nutrition",
+    "synonyms": [
+      "Nutrition and Food Sciences",
+      "N.F.S.",
+      "NFS",
+      "Nutrition",
+      "Nutrition and Food Sciences"
+    ]
+  },
+  {
+    "value": "Physics",
+    "synonyms": [
+      "P.H.Y.",
+      "PHY",
+      "Physics"
+    ]
+  },
+  {
+    "value": "Biochemistry",
+    "synonyms": [
+      "B.C.H.",
+      "BCH",
+      "Biochemistry"
+    ]
+  },
+  {
+    "value": "Master’s in Business Administration",
+    "synonyms": [
+      "M.B.A.",
+      "MBA",
+      "Master’s in Business Administration"
+    ]
+  },
+  {
+    "value": "Mechanical Engineering",
+    "synonyms": [
+      "M.C.E.",
+      "MCE",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "value": "Music",
+    "synonyms": [
+      "M.U.S.",
+      "MUS",
+      "Music"
+    ]
+  },
+  {
+    "value": "Graduate Off Campus Study",
+    "synonyms": [
+      "Graduate Off Campus Study",
+      "O.C.S.G.",
+      "OCSG",
+      "Off Campus Study – Graduate",
+      "Graduate Off Campus Study"
+    ]
+  },
+  {
+    "value": "Pharmacy Practice",
+    "synonyms": [
+      "P.H.P.",
+      "PHP",
+      "Pharmacy Practice"
+    ]
+  },
+  {
+    "value": "Psychology",
+    "synonyms": [
+      "P.S.Y.",
+      "PSY",
+      "Psychology"
     ]
   }
 ]
